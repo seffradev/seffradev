@@ -7,7 +7,7 @@ I am also currently studying for a computer engineering bachelor degree in Swede
 My current favourite editor is Neovim, but I have used VS Code professionally so I occasionally relapse. 
 
 - 🔭 I’m currently working on 
-  - hobby: websocket-based card game, server in Go and frontend in JS
+  - hobby: websocket-based card game, server in Go and frontend in TS
   - as a software developer at a telecom firm and
   - as a teacher in high school
 - 🌱 I’m currently learning
