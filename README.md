@@ -1,5 +1,5 @@
 # Hi
-My name is Hampus, but online I refer myself to Seffra. My last name is Avekvist, which is why it's related to both names. 
+My name is Hampus, but online I refer myself to Seffra.
 I have been programming as a hobby since 2012 and initially I started building games, but today I work on systems mostly related to networking. 
 
 I am also currently studying for a computer engineering bachelor degree in Sweden. 
