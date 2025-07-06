@@ -1,36 +1,32 @@
-# Hi
-My name is Hampus, but online I refer myself to Seffra.
-I have been programming as a hobby sometime since 2012 and initially I started
-building games, but today I work on systems mostly related to networking.
+# Hi, I'm Hampus
 
-I am also currently studying my last year of a computer engineering bachelor
-degree in Sweden.
+Though, you may refer to me as `seffradev` online. I'm a (he/him)
+type of guy.
 
-My current favourite editor is Neovim, but I have used VS Code professionally
-so I occasionally relapse.
+## Short about me
+- **I have been programming** in my spare time since 2012,
+  professionally since 2021.
+- **I have an almost complete** Bachelor's degree in computer
+  engineering from University West.
+- **I spend my time tinkering** with NixOS and Neovim.
+- **I've delved deep into C++** to improve both my own code, but
+  also the code at my job.
+- **I care deeply about** quality, readability, and helping my
+  peers improve.
 
-## My projects
-- [asterisk-rs](https://github.com/seffradev/asterisk-rs)
-- [thecocktaildb-rs](https://github.com/seffradev/thecocktaildb-rs)
+## My current obsession
+- **My own GameBoy emulator**,
+  [`gbpp`](https://github.com/seffradev/gbpp), which aims to be a
+  runtime-agnostic emulator.
+- **And the heaps of C++ and software engineering books** that I've
+  read or is currently reading. Check out [my
+  Goodreads](https://www.goodreads.com/seffradev) for an actively
+  updated list and reviews.
 
-And I also maintain a sensible (to me)
-[Rust project template](https://github.com/seffradev/rust-template) using
-`cargo-generate`.
-
-## But what do I do?
-- 🔭 I’m currently working
-  - on finding time to work on personal projects
-  - as a software developer at a telecom firm
-  - as a teacher's assistant at my university
-- 🌱 I’m currently learning
-  - rust
-  - feedback control engineering
-  - software engineering (university course)
-  - advanced topics in computer engineering (very vague, am I right, also a course)
-- 👯 I’m looking to collaborate on
-  - some telecom, specifically asterisk related
-- 💬 Ask me about old telephones
-- 📫 How to reach me:
-  - email: hampus.avekvist@hey.com
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I've figured out a way to build a Whac-a-mole game with analogue phones
+## Some projects I occasionally maintain
+- [asterisk-rs](https://github.com/seffradev/asterisk-rs) which is
+  a set of Rust crates for interfacing with Asterisk, a free and
+  open source PBX.
+- The Rust crate that provides an API interface to
+  [thecocktaildb](https://www.thecocktaildb.com/), cleverly called
+  [thecocktaildb-rs](https://github.com/seffradev/thecocktaildb-rs).
